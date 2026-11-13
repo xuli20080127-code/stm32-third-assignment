@@ -1,0 +1,6 @@
+[1113/192515.303:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)
+[1113/192515.357:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)
+[1113/192516.371:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)
+[1113/192516.540:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)
+[1113/192519.844:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)
+[1113/192535.072:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: 管道的另一端上无任何进程。 (0xE9)

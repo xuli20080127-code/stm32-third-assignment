@@ -1,0 +1,3 @@
+C:/Users/xuli2/Desktop/STM32Project/Projects_Nanhaisha/assignment3/cmake-build-debug/CMakeFiles/assignment3.elf.dir
+C:/Users/xuli2/Desktop/STM32Project/Projects_Nanhaisha/assignment3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xuli2/Desktop/STM32Project/Projects_Nanhaisha/assignment3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
